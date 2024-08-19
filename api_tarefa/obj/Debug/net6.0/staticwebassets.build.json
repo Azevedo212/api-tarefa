@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Vk5VGhYl4VStSMmqTvqAdKpBH+OUvDQoNT74xxydQkI=",
+  "Source": "api_tarefa",
+  "BasePath": "_content/api_tarefa",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
